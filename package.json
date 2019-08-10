@@ -20,7 +20,7 @@
     "@types/react-dom": "16.0.7",
     "@types/storybook__react": "3.0.9",
     "babel-core": "6.26.3",
-    "babel-preset-env": "1.6.1",
+    "babel-preset-env": "1.7.0",
     "enzyme": "3.3.0",
     "enzyme-adapter-react-16": "1.1.1",
     "enzyme-to-json": "3.3.3",
